@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://archilton.github.io/sitemap.xml
+Host: https://archilton.github.io
